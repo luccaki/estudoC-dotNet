@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "QTwrWK3ALGdn+zWMYCkvNPWBKU+Sx8y8V3hj56TR61KreO6c0V7p7W9Phz/SlELRHSwqgrZY/htciGC0RVdMtA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucca\\Desktop\\C#\\csharp-examples-master\\01-EstruturaDoPrograma\\EstruturaDoPrograma.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucca\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\lucca\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\lucca\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\lucca\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
