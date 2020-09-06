@@ -1,0 +1,13 @@
+C:\Users\lucca\Desktop\C#\Classes, atributos e métodos\Exercicio 4\Exercicio 4\bin\Debug\netcoreapp3.1\Exercicio 4.exe
+C:\Users\lucca\Desktop\C#\Classes, atributos e métodos\Exercicio 4\Exercicio 4\bin\Debug\netcoreapp3.1\Exercicio 4.deps.json
+C:\Users\lucca\Desktop\C#\Classes, atributos e métodos\Exercicio 4\Exercicio 4\bin\Debug\netcoreapp3.1\Exercicio 4.runtimeconfig.json
+C:\Users\lucca\Desktop\C#\Classes, atributos e métodos\Exercicio 4\Exercicio 4\bin\Debug\netcoreapp3.1\Exercicio 4.runtimeconfig.dev.json
+C:\Users\lucca\Desktop\C#\Classes, atributos e métodos\Exercicio 4\Exercicio 4\bin\Debug\netcoreapp3.1\Exercicio 4.dll
+C:\Users\lucca\Desktop\C#\Classes, atributos e métodos\Exercicio 4\Exercicio 4\bin\Debug\netcoreapp3.1\Exercicio 4.pdb
+C:\Users\lucca\Desktop\C#\Classes, atributos e métodos\Exercicio 4\Exercicio 4\obj\Debug\netcoreapp3.1\Exercicio 4.csprojAssemblyReference.cache
+C:\Users\lucca\Desktop\C#\Classes, atributos e métodos\Exercicio 4\Exercicio 4\obj\Debug\netcoreapp3.1\Exercicio 4.AssemblyInfoInputs.cache
+C:\Users\lucca\Desktop\C#\Classes, atributos e métodos\Exercicio 4\Exercicio 4\obj\Debug\netcoreapp3.1\Exercicio 4.AssemblyInfo.cs
+C:\Users\lucca\Desktop\C#\Classes, atributos e métodos\Exercicio 4\Exercicio 4\obj\Debug\netcoreapp3.1\Exercicio 4.csproj.CoreCompileInputs.cache
+C:\Users\lucca\Desktop\C#\Classes, atributos e métodos\Exercicio 4\Exercicio 4\obj\Debug\netcoreapp3.1\Exercicio 4.dll
+C:\Users\lucca\Desktop\C#\Classes, atributos e métodos\Exercicio 4\Exercicio 4\obj\Debug\netcoreapp3.1\Exercicio 4.pdb
+C:\Users\lucca\Desktop\C#\Classes, atributos e métodos\Exercicio 4\Exercicio 4\obj\Debug\netcoreapp3.1\Exercicio 4.genruntimeconfig.cache
