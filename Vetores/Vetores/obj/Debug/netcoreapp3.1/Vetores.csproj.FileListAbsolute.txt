@@ -1,0 +1,13 @@
+C:\Users\lucca\Desktop\C#\Vetores\Vetores\bin\Debug\netcoreapp3.1\Vetores.exe
+C:\Users\lucca\Desktop\C#\Vetores\Vetores\bin\Debug\netcoreapp3.1\Vetores.deps.json
+C:\Users\lucca\Desktop\C#\Vetores\Vetores\bin\Debug\netcoreapp3.1\Vetores.runtimeconfig.json
+C:\Users\lucca\Desktop\C#\Vetores\Vetores\bin\Debug\netcoreapp3.1\Vetores.runtimeconfig.dev.json
+C:\Users\lucca\Desktop\C#\Vetores\Vetores\bin\Debug\netcoreapp3.1\Vetores.dll
+C:\Users\lucca\Desktop\C#\Vetores\Vetores\bin\Debug\netcoreapp3.1\Vetores.pdb
+C:\Users\lucca\Desktop\C#\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.csprojAssemblyReference.cache
+C:\Users\lucca\Desktop\C#\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.AssemblyInfoInputs.cache
+C:\Users\lucca\Desktop\C#\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.AssemblyInfo.cs
+C:\Users\lucca\Desktop\C#\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.csproj.CoreCompileInputs.cache
+C:\Users\lucca\Desktop\C#\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.dll
+C:\Users\lucca\Desktop\C#\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.pdb
+C:\Users\lucca\Desktop\C#\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.genruntimeconfig.cache
