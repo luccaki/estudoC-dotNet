@@ -1,0 +1,13 @@
+C:\Users\lucca\Desktop\C#\Listas\Listas\bin\Debug\netcoreapp3.1\Listas.exe
+C:\Users\lucca\Desktop\C#\Listas\Listas\bin\Debug\netcoreapp3.1\Listas.deps.json
+C:\Users\lucca\Desktop\C#\Listas\Listas\bin\Debug\netcoreapp3.1\Listas.runtimeconfig.json
+C:\Users\lucca\Desktop\C#\Listas\Listas\bin\Debug\netcoreapp3.1\Listas.runtimeconfig.dev.json
+C:\Users\lucca\Desktop\C#\Listas\Listas\bin\Debug\netcoreapp3.1\Listas.dll
+C:\Users\lucca\Desktop\C#\Listas\Listas\bin\Debug\netcoreapp3.1\Listas.pdb
+C:\Users\lucca\Desktop\C#\Listas\Listas\obj\Debug\netcoreapp3.1\Listas.csprojAssemblyReference.cache
+C:\Users\lucca\Desktop\C#\Listas\Listas\obj\Debug\netcoreapp3.1\Listas.AssemblyInfoInputs.cache
+C:\Users\lucca\Desktop\C#\Listas\Listas\obj\Debug\netcoreapp3.1\Listas.AssemblyInfo.cs
+C:\Users\lucca\Desktop\C#\Listas\Listas\obj\Debug\netcoreapp3.1\Listas.csproj.CoreCompileInputs.cache
+C:\Users\lucca\Desktop\C#\Listas\Listas\obj\Debug\netcoreapp3.1\Listas.dll
+C:\Users\lucca\Desktop\C#\Listas\Listas\obj\Debug\netcoreapp3.1\Listas.pdb
+C:\Users\lucca\Desktop\C#\Listas\Listas\obj\Debug\netcoreapp3.1\Listas.genruntimeconfig.cache
