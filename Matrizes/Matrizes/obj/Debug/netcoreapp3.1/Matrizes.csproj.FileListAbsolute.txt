@@ -1,0 +1,13 @@
+C:\Users\lucca\Desktop\C#\Matrizes\Matrizes\bin\Debug\netcoreapp3.1\Matrizes.exe
+C:\Users\lucca\Desktop\C#\Matrizes\Matrizes\bin\Debug\netcoreapp3.1\Matrizes.deps.json
+C:\Users\lucca\Desktop\C#\Matrizes\Matrizes\bin\Debug\netcoreapp3.1\Matrizes.runtimeconfig.json
+C:\Users\lucca\Desktop\C#\Matrizes\Matrizes\bin\Debug\netcoreapp3.1\Matrizes.runtimeconfig.dev.json
+C:\Users\lucca\Desktop\C#\Matrizes\Matrizes\bin\Debug\netcoreapp3.1\Matrizes.dll
+C:\Users\lucca\Desktop\C#\Matrizes\Matrizes\bin\Debug\netcoreapp3.1\Matrizes.pdb
+C:\Users\lucca\Desktop\C#\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.csprojAssemblyReference.cache
+C:\Users\lucca\Desktop\C#\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.AssemblyInfoInputs.cache
+C:\Users\lucca\Desktop\C#\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.AssemblyInfo.cs
+C:\Users\lucca\Desktop\C#\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\lucca\Desktop\C#\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.dll
+C:\Users\lucca\Desktop\C#\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.pdb
+C:\Users\lucca\Desktop\C#\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.genruntimeconfig.cache
