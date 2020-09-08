@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Projeto (Enumerações e Composição)/1.0.0": {
+        "runtime": {
+          "Projeto (Enumerações e Composição).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projeto (Enumerações e Composição)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

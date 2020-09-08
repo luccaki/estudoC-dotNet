@@ -1,0 +1,13 @@
+C:\Users\lucca\Desktop\C#\Projeto (Enumerações e Composição)\Projeto (Enumerações e Composição)\obj\Debug\netcoreapp3.1\Projeto (Enumerações e Composição).csprojAssemblyReference.cache
+C:\Users\lucca\Desktop\C#\Projeto (Enumerações e Composição)\Projeto (Enumerações e Composição)\obj\Debug\netcoreapp3.1\Projeto (Enumerações e Composição).AssemblyInfoInputs.cache
+C:\Users\lucca\Desktop\C#\Projeto (Enumerações e Composição)\Projeto (Enumerações e Composição)\obj\Debug\netcoreapp3.1\Projeto (Enumerações e Composição).AssemblyInfo.cs
+C:\Users\lucca\Desktop\C#\Projeto (Enumerações e Composição)\Projeto (Enumerações e Composição)\obj\Debug\netcoreapp3.1\Projeto (Enumerações e Composição).csproj.CoreCompileInputs.cache
+C:\Users\lucca\Desktop\C#\Projeto (Enumerações e Composição)\Projeto (Enumerações e Composição)\bin\Debug\netcoreapp3.1\Projeto (Enumerações e Composição).exe
+C:\Users\lucca\Desktop\C#\Projeto (Enumerações e Composição)\Projeto (Enumerações e Composição)\bin\Debug\netcoreapp3.1\Projeto (Enumerações e Composição).deps.json
+C:\Users\lucca\Desktop\C#\Projeto (Enumerações e Composição)\Projeto (Enumerações e Composição)\bin\Debug\netcoreapp3.1\Projeto (Enumerações e Composição).runtimeconfig.json
+C:\Users\lucca\Desktop\C#\Projeto (Enumerações e Composição)\Projeto (Enumerações e Composição)\bin\Debug\netcoreapp3.1\Projeto (Enumerações e Composição).runtimeconfig.dev.json
+C:\Users\lucca\Desktop\C#\Projeto (Enumerações e Composição)\Projeto (Enumerações e Composição)\bin\Debug\netcoreapp3.1\Projeto (Enumerações e Composição).dll
+C:\Users\lucca\Desktop\C#\Projeto (Enumerações e Composição)\Projeto (Enumerações e Composição)\bin\Debug\netcoreapp3.1\Projeto (Enumerações e Composição).pdb
+C:\Users\lucca\Desktop\C#\Projeto (Enumerações e Composição)\Projeto (Enumerações e Composição)\obj\Debug\netcoreapp3.1\Projeto (Enumerações e Composição).dll
+C:\Users\lucca\Desktop\C#\Projeto (Enumerações e Composição)\Projeto (Enumerações e Composição)\obj\Debug\netcoreapp3.1\Projeto (Enumerações e Composição).pdb
+C:\Users\lucca\Desktop\C#\Projeto (Enumerações e Composição)\Projeto (Enumerações e Composição)\obj\Debug\netcoreapp3.1\Projeto (Enumerações e Composição).genruntimeconfig.cache
