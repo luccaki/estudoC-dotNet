@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Métodos Abstratos/1.0.0": {
+        "runtime": {
+          "Métodos Abstratos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Métodos Abstratos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
