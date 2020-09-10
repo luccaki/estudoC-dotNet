@@ -1,0 +1,13 @@
+C:\Users\lucca\Desktop\C#\Exceções\Exceções\bin\Debug\netcoreapp3.1\Exceções.exe
+C:\Users\lucca\Desktop\C#\Exceções\Exceções\bin\Debug\netcoreapp3.1\Exceções.deps.json
+C:\Users\lucca\Desktop\C#\Exceções\Exceções\bin\Debug\netcoreapp3.1\Exceções.runtimeconfig.json
+C:\Users\lucca\Desktop\C#\Exceções\Exceções\bin\Debug\netcoreapp3.1\Exceções.runtimeconfig.dev.json
+C:\Users\lucca\Desktop\C#\Exceções\Exceções\bin\Debug\netcoreapp3.1\Exceções.dll
+C:\Users\lucca\Desktop\C#\Exceções\Exceções\bin\Debug\netcoreapp3.1\Exceções.pdb
+C:\Users\lucca\Desktop\C#\Exceções\Exceções\obj\Debug\netcoreapp3.1\Exceções.csprojAssemblyReference.cache
+C:\Users\lucca\Desktop\C#\Exceções\Exceções\obj\Debug\netcoreapp3.1\Exceções.AssemblyInfoInputs.cache
+C:\Users\lucca\Desktop\C#\Exceções\Exceções\obj\Debug\netcoreapp3.1\Exceções.AssemblyInfo.cs
+C:\Users\lucca\Desktop\C#\Exceções\Exceções\obj\Debug\netcoreapp3.1\Exceções.csproj.CoreCompileInputs.cache
+C:\Users\lucca\Desktop\C#\Exceções\Exceções\obj\Debug\netcoreapp3.1\Exceções.dll
+C:\Users\lucca\Desktop\C#\Exceções\Exceções\obj\Debug\netcoreapp3.1\Exceções.pdb
+C:\Users\lucca\Desktop\C#\Exceções\Exceções\obj\Debug\netcoreapp3.1\Exceções.genruntimeconfig.cache
