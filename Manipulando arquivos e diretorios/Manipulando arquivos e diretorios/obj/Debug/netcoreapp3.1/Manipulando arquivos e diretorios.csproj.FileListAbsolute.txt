@@ -1,0 +1,13 @@
+C:\Users\lucca\Desktop\C#\Manipulando arquivos e diretorios\Manipulando arquivos e diretorios\bin\Debug\netcoreapp3.1\Manipulando arquivos e diretorios.exe
+C:\Users\lucca\Desktop\C#\Manipulando arquivos e diretorios\Manipulando arquivos e diretorios\bin\Debug\netcoreapp3.1\Manipulando arquivos e diretorios.deps.json
+C:\Users\lucca\Desktop\C#\Manipulando arquivos e diretorios\Manipulando arquivos e diretorios\bin\Debug\netcoreapp3.1\Manipulando arquivos e diretorios.runtimeconfig.json
+C:\Users\lucca\Desktop\C#\Manipulando arquivos e diretorios\Manipulando arquivos e diretorios\bin\Debug\netcoreapp3.1\Manipulando arquivos e diretorios.runtimeconfig.dev.json
+C:\Users\lucca\Desktop\C#\Manipulando arquivos e diretorios\Manipulando arquivos e diretorios\bin\Debug\netcoreapp3.1\Manipulando arquivos e diretorios.dll
+C:\Users\lucca\Desktop\C#\Manipulando arquivos e diretorios\Manipulando arquivos e diretorios\bin\Debug\netcoreapp3.1\Manipulando arquivos e diretorios.pdb
+C:\Users\lucca\Desktop\C#\Manipulando arquivos e diretorios\Manipulando arquivos e diretorios\obj\Debug\netcoreapp3.1\Manipulando arquivos e diretorios.csprojAssemblyReference.cache
+C:\Users\lucca\Desktop\C#\Manipulando arquivos e diretorios\Manipulando arquivos e diretorios\obj\Debug\netcoreapp3.1\Manipulando arquivos e diretorios.AssemblyInfoInputs.cache
+C:\Users\lucca\Desktop\C#\Manipulando arquivos e diretorios\Manipulando arquivos e diretorios\obj\Debug\netcoreapp3.1\Manipulando arquivos e diretorios.AssemblyInfo.cs
+C:\Users\lucca\Desktop\C#\Manipulando arquivos e diretorios\Manipulando arquivos e diretorios\obj\Debug\netcoreapp3.1\Manipulando arquivos e diretorios.csproj.CoreCompileInputs.cache
+C:\Users\lucca\Desktop\C#\Manipulando arquivos e diretorios\Manipulando arquivos e diretorios\obj\Debug\netcoreapp3.1\Manipulando arquivos e diretorios.dll
+C:\Users\lucca\Desktop\C#\Manipulando arquivos e diretorios\Manipulando arquivos e diretorios\obj\Debug\netcoreapp3.1\Manipulando arquivos e diretorios.pdb
+C:\Users\lucca\Desktop\C#\Manipulando arquivos e diretorios\Manipulando arquivos e diretorios\obj\Debug\netcoreapp3.1\Manipulando arquivos e diretorios.genruntimeconfig.cache
