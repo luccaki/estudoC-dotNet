@@ -1,0 +1,13 @@
+C:\Users\lucca\Desktop\C#\expressõesLambdaDelegatesLINQ\expressõesLambdaDelegatesLINQ\bin\Debug\netcoreapp3.1\expressõesLambdaDelegatesLINQ.exe
+C:\Users\lucca\Desktop\C#\expressõesLambdaDelegatesLINQ\expressõesLambdaDelegatesLINQ\bin\Debug\netcoreapp3.1\expressõesLambdaDelegatesLINQ.deps.json
+C:\Users\lucca\Desktop\C#\expressõesLambdaDelegatesLINQ\expressõesLambdaDelegatesLINQ\bin\Debug\netcoreapp3.1\expressõesLambdaDelegatesLINQ.runtimeconfig.json
+C:\Users\lucca\Desktop\C#\expressõesLambdaDelegatesLINQ\expressõesLambdaDelegatesLINQ\bin\Debug\netcoreapp3.1\expressõesLambdaDelegatesLINQ.runtimeconfig.dev.json
+C:\Users\lucca\Desktop\C#\expressõesLambdaDelegatesLINQ\expressõesLambdaDelegatesLINQ\bin\Debug\netcoreapp3.1\expressõesLambdaDelegatesLINQ.dll
+C:\Users\lucca\Desktop\C#\expressõesLambdaDelegatesLINQ\expressõesLambdaDelegatesLINQ\bin\Debug\netcoreapp3.1\expressõesLambdaDelegatesLINQ.pdb
+C:\Users\lucca\Desktop\C#\expressõesLambdaDelegatesLINQ\expressõesLambdaDelegatesLINQ\obj\Debug\netcoreapp3.1\expressõesLambdaDelegatesLINQ.csprojAssemblyReference.cache
+C:\Users\lucca\Desktop\C#\expressõesLambdaDelegatesLINQ\expressõesLambdaDelegatesLINQ\obj\Debug\netcoreapp3.1\expressõesLambdaDelegatesLINQ.AssemblyInfoInputs.cache
+C:\Users\lucca\Desktop\C#\expressõesLambdaDelegatesLINQ\expressõesLambdaDelegatesLINQ\obj\Debug\netcoreapp3.1\expressõesLambdaDelegatesLINQ.AssemblyInfo.cs
+C:\Users\lucca\Desktop\C#\expressõesLambdaDelegatesLINQ\expressõesLambdaDelegatesLINQ\obj\Debug\netcoreapp3.1\expressõesLambdaDelegatesLINQ.csproj.CoreCompileInputs.cache
+C:\Users\lucca\Desktop\C#\expressõesLambdaDelegatesLINQ\expressõesLambdaDelegatesLINQ\obj\Debug\netcoreapp3.1\expressõesLambdaDelegatesLINQ.dll
+C:\Users\lucca\Desktop\C#\expressõesLambdaDelegatesLINQ\expressõesLambdaDelegatesLINQ\obj\Debug\netcoreapp3.1\expressõesLambdaDelegatesLINQ.pdb
+C:\Users\lucca\Desktop\C#\expressõesLambdaDelegatesLINQ\expressõesLambdaDelegatesLINQ\obj\Debug\netcoreapp3.1\expressõesLambdaDelegatesLINQ.genruntimeconfig.cache
